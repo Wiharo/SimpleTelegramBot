@@ -2,7 +2,7 @@ from telebot import types
 import random
 import telebot
 
-token = "5203676470:AAGzhTvM6HSlQ5nawQg3gEForS-nAimNs2M"
+token = ""
 
 bot = telebot.TeleBot(token)
 #pool = ["зз это херня", "поеб#мя?", "на мне черный трешер", "луна сегодня красивая", "баю бай мой калашников"]
